@@ -1,4 +1,4 @@
-package com.caps.dev.java.spring;
+package com.caps.dev.java.spring.annotation;
 
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;

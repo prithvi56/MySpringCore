@@ -1,4 +1,4 @@
-package com.caps.dev.java.spring;
+package com.caps.dev.java.spring.xml;
 
 public class SoftwareDeveloper implements Job {
 	public void job() {
