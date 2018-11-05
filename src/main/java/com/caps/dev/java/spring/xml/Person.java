@@ -4,6 +4,13 @@ public class Person {
 	private String name;
 	private Job job;
 	
+	public void init() {
+		System.out.println("Init");
+	}
+	
+	public void destory() {
+		System.out.println("Destroy");
+	}
 	public String getName() {
 		return name;
 	}
